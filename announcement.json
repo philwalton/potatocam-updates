@@ -1,6 +1,15 @@
 {
   "cards": [
     {
+      "id": "affiliates-2026-11-26",
+      "imageUrl": "https://updates.potato.cam/cards/20261126-173006-join-the-affiliate-program.jpg",
+      "title": "Join the affiliate program!",
+      "message": "You're already recommending it to your audience, why not earn 25% monthly commission when they sign up for a paid subscription?!",
+      "buttonText": "apply today",
+      "buttonUrl": "https://phillip1.gumroad.com/affiliates",
+      "audience": "paid"
+    },
+    {
       "id": "unlock_2026",
       "imageUrl": "https://updates.potato.cam/cards/unlock.jpg",
       "title": "Unlock every lens group",
